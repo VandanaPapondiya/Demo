@@ -12,5 +12,6 @@ public class Main {
             System.out.println("i = " + i);
         }
         System.out.printf("Vandana2");
+        System.out.printf("Vandana2");
     }
 }
